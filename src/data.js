@@ -1,14 +1,6 @@
 export default [
     {
-        title: "Mount Fuji",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan. 2021",
-        endDate: "24 Jan. 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
-    },
-    {
+        id: 1,
         title: "Acatenango Volcano",
         location: "Guatemala",
         googleMapsUrl: "https://goo.gl/maps/hboGiM5D8aJBqWMs8",
@@ -18,6 +10,7 @@ export default [
         imageUrl: "https://source.unsplash.com/KRttQCXUjNI"
     },
     {
+        id: 2,
         title: "Gardens by the Bay",
         location: "Singapore",
         googleMapsUrl: "https://goo.gl/maps/dgTe75PU1uLVspZW6",
@@ -27,6 +20,7 @@ export default [
         imageUrl: "https://source.unsplash.com/OZ2rS2zCjNo"
     },
     {
+        id: 3,
         title: "Petronas Twin Towers",
         location: "Malaysia",
         googleMapsUrl: "https://goo.gl/maps/3evTfkGJxsKtGJcW6",
@@ -36,15 +30,18 @@ export default [
         imageUrl: "https://source.unsplash.com/KcYVMFAYDck"
     },
     {
+        id: 4,
         title: "Hon Thom Cable Car",
         location: "Vietnam",
         googleMapsUrl: "https://goo.gl/maps/Z4dQfws1qcT22N1x8",
         startDate: "22 May. 2020",
         endDate: "25 May. 2020",
         description: "The Hon Thom cable car is the longest cable car in the world spanning almost 8km over 3 to 4 islands and is located in Phu Quoc, Vietnam. The cable car takes about 15 minutes each way as it takes you from the main island of Phu Quoc to Hon Thom Nature Park on Thom Island.",
-        imageUrl: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/79/e3/dc/sun-world-hon-thom-nature.jpg?w=1400&h=-1&s=1"
+        // imageUrl: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/79/e3/dc/sun-world-hon-thom-nature.jpg?w=1400&h=-1&s=1"
+        imageUrl: "https://source.unsplash.com/tLjO8nRUZeQ"
     },
     {
+        id: 5,
         title: "Tikal",
         location: "Guatemala",
         googleMapsUrl: "https://goo.gl/maps/FJZ7v4p8BdmjoN2S6",
@@ -54,6 +51,7 @@ export default [
         imageUrl: "https://source.unsplash.com/LQPqSjvGhss"
     },
     {
+        id: 6,
         title: "Antigua",
         location: "Guatemala",
         googleMapsUrl: "https://goo.gl/maps/fyBmNBQetYpZizU56",
@@ -63,6 +61,7 @@ export default [
         imageUrl: "https://source.unsplash.com/vgBxk5QJZPo"
     },
     {
+        id: 7,
         title: "Lake Atitlan",
         location: "Guatemala",
         googleMapsUrl: "https://goo.gl/maps/9EKrogDRrWzDvSkj7",
