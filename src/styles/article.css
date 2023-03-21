@@ -2,7 +2,7 @@
 
 .card__img {
     width: 100%;
-    height: 168px;
+    height: 300px;
     margin-right: 1.5em;
     margin-bottom: 1.5em;
     border-radius: 5px;
@@ -80,5 +80,31 @@
 }
 
 @media screen and (min-width: 1064px) {
+    .card {
+        max-width: 1150px;
+    }
 
+    .card__img {
+        min-width: 375px;
+        max-width: 375px;
+        min-height: 345px;
+        max-height: 345px;
+    }
+
+    .card__location-info {
+        font-size: 14px;
+        align-items: flex-end;
+    }
+
+    .location__icon {
+        width: 10px
+    }
+}
+
+
+@media screen and (min-width: 1300px) {
+    .card__img {
+        min-width: 465px;
+        max-width: 465px;
+    }
 }

@@ -6,9 +6,7 @@ function Article(props) {
 
     return (
         <article className="card">
-            {/* <div className="img-container"> */}
                 <img className="card__img" src={props.item.imageUrl} alt="" />
-            {/* </div> */}
             <div className="card__copy">
                 <div className="card__location-info">
                     <img className="location__icon" src={locationIcon} alt="" />
