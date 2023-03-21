@@ -16,6 +16,26 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin: 0 8em;
+        margin: 2em 8em;
+    }
+
+    .card {
+        max-width: 1150px;
+    }
+
+    .card__img {
+        min-width: 465px;
+        max-width: 465px;
+        min-height: 345px;
+        max-height: 345px;
+    }
+
+    .card__location-info {
+        font-size: 14px;
+        align-items: flex-end;
+    }
+
+    .location__icon {
+        width: 10px
     }
 }
