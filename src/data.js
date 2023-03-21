@@ -68,6 +68,6 @@ export default [
         startDate: "12 Jan. 2020",
         endDate: "25 Jan. 2020",
         description: "Lake Atitlán is a body of water in a massive volcanic crater in Guatemala’s southwestern highlands. Ringed by steep, verdant hills, it’s known for its Mayan villages and volcanoes with striking pointed cones. The busy town of Panajachel, where vendors sell traditional textiles, is a popular gateway to the lake.",
-        imageUrl: "https://unsplash.com/photos/r6X9GPgumF0"
+        imageUrl: "https://source.unsplash.com/r6X9GPgumF0"
     },
 ]

@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+@media screen and (min-width: 734px) {
+    .cards-list {
+        margin: 0 4em
+    }
+}
+
+@media screen and (min-width: 1064px) {
+    .cards-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 8em;
+    }
+}

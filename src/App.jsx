@@ -17,10 +17,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <main>
+      <main className="cards-list">
         {articleElements}
       </main>
-      <h1>Hello world</h1>
     </div>
   )
 }
