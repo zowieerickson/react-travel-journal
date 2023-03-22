@@ -26,7 +26,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/3evTfkGJxsKtGJcW6",
         startDate: "05 Mar. 2021",
         endDate: "06 Mar. 2021",
-        description: "The Petronas Twin Towers are a pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 metres (1,483 feet). From 1998 to 2003, they were officially designated as the tallest buildings in the world until they were surpassed by the 2004 completion of the Taipei 101.",
+        description: "The Petronas Twin Towers are a pair of 88-storey supertall skyscrapers in Kuala Lumpur, Malaysia, standing at 451.9 meters (1,483 feet). From 1998 to 2003, they were officially designated as the tallest buildings in the world until they were surpassed by the 2004 completion of the Taipei 101.",
         imageUrl: "https://source.unsplash.com/KcYVMFAYDck"
     },
     {
@@ -36,8 +36,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/Z4dQfws1qcT22N1x8",
         startDate: "22 May. 2020",
         endDate: "25 May. 2020",
-        description: "The Hon Thom cable car is the longest cable car in the world spanning almost 8km over 3 to 4 islands and is located in Phu Quoc, Vietnam. The cable car takes about 15 minutes each way as it takes you from the main island of Phu Quoc to Hon Thom Nature Park on Thom Island.",
-        // imageUrl: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/79/e3/dc/sun-world-hon-thom-nature.jpg?w=1400&h=-1&s=1"
+        description: "The Hon Thom cable car is the longest cable car in the world spanning almost 8 km over 3 to 4 islands and is located in Phu Quoc, Vietnam. The cable car takes about 15 minutes each way as it takes you from the main island of Phu Quoc to Hon Thom Nature Park on Thom Island.",
         imageUrl: "https://source.unsplash.com/tLjO8nRUZeQ"
     },
     {
@@ -47,7 +46,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/FJZ7v4p8BdmjoN2S6",
         startDate: "12 Jan. 2020",
         endDate: "25 Jan. 2020",
-        description: "Tikal is an acient Mayan citadel in the rainforests of northern Guatemala. Possibly dating to the 1st century A.D., Tikal flourished between 20 and 850 A.D. and was later abandoned.",
+        description: "Tikal is an ancient Mayan citadel in the rainforests of northern Guatemala. Possibly dating to the 1st century A.D., Tikal flourished between 20 and 850 A.D. and was later abandoned.",
         imageUrl: "https://source.unsplash.com/LQPqSjvGhss"
     },
     {
