@@ -2,11 +2,9 @@ import locationIcon from '../assets/location.svg'
 import '../styles/article.css'
 
 function Article(props) {
-    console.log(props)
-
     return (
         <article className="card">
-                <img className="card__img" src={props.item.imageUrl} alt="" />
+            <img className="card__img" src={props.item.imageUrl} alt="" />
             <div className="card__copy">
                 <div className="card__location-info">
                     <img className="location__icon" src={locationIcon} alt="" />
